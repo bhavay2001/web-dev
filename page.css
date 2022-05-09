@@ -1,0 +1,13 @@
+h1{
+    background-color:rgb(31, 139, 156);
+    border-radius: 30px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    border: 0;
+    outline: 0;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
